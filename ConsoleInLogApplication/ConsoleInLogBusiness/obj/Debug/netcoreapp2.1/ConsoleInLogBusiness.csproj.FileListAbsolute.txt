@@ -1,0 +1,9 @@
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.csprojAssemblyReference.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.AssemblyInfoInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.AssemblyInfo.cs
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.deps.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.pdb
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogBusiness\obj\Debug\netcoreapp2.1\ConsoleInLogBusiness.pdb

@@ -1,0 +1,17 @@
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogTest.deps.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogTest.runtimeconfig.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogTest.runtimeconfig.dev.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogTest.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.csprojAssemblyReference.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.csproj.CoreCompileInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.AssemblyInfoInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.AssemblyInfo.cs
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogTest.pdb
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.pdb
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.csproj.CopyComplete
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogTest\obj\Debug\netcoreapp2.1\ConsoleInLogTest.pdb

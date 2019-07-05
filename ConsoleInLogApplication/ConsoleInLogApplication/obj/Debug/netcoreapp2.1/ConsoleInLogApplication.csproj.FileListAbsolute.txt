@@ -1,0 +1,14 @@
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.csprojAssemblyReference.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.csproj.CoreCompileInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.AssemblyInfoInputs.cache
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.AssemblyInfo.cs
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogApplication.deps.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogApplication.runtimeconfig.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogApplication.runtimeconfig.dev.json
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogApplication.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogApplication.pdb
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\bin\Debug\netcoreapp2.1\ConsoleInLogBusiness.pdb
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.csproj.CopyComplete
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.dll
+C:\Users\ALM4CT\Source\repos\ConsoleInLogApplication\ConsoleInLogApplication\ConsoleInLogApplication\obj\Debug\netcoreapp2.1\ConsoleInLogApplication.pdb
